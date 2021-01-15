@@ -194,25 +194,25 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/29/2020 17:55:48</publishTime>
     </File>
     <File Include="WeAlignAPI.deps.json">
-      <publishTime>01/15/2021 15:32:25</publishTime>
+      <publishTime>01/15/2021 15:57:19</publishTime>
     </File>
     <File Include="WeAlignAPI.dll">
-      <publishTime>01/15/2021 15:32:25</publishTime>
+      <publishTime>01/15/2021 15:57:19</publishTime>
     </File>
     <File Include="WeAlignAPI.exe">
-      <publishTime>01/15/2021 15:32:25</publishTime>
+      <publishTime>01/15/2021 15:57:19</publishTime>
     </File>
     <File Include="WeAlignAPI.pdb">
-      <publishTime>01/15/2021 15:32:25</publishTime>
+      <publishTime>01/15/2021 15:57:19</publishTime>
     </File>
     <File Include="WeAlignAPI.runtimeconfig.json">
-      <publishTime>01/15/2021 08:57:59</publishTime>
+      <publishTime>01/15/2021 15:57:19</publishTime>
     </File>
     <File Include="WeAlignSAP.dll">
-      <publishTime>01/15/2021 15:32:23</publishTime>
+      <publishTime>01/15/2021 15:57:19</publishTime>
     </File>
     <File Include="WeAlignSAP.pdb">
-      <publishTime>01/15/2021 15:32:23</publishTime>
+      <publishTime>01/15/2021 15:57:19</publishTime>
     </File>
     <File Include="WeAllignAPI.deps.json">
       <publishTime>01/04/2021 13:54:28</publishTime>
@@ -230,7 +230,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/04/2021 12:23:40</publishTime>
     </File>
     <File Include="web.config">
-      <publishTime>01/15/2021 15:32:25</publishTime>
+      <publishTime>01/15/2021 15:57:22</publishTime>
     </File>
   </ItemGroup>
 </Project>
