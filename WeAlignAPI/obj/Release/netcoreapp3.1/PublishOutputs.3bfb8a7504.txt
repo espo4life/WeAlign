@@ -1,0 +1,11 @@
+C:\Users\micha\source\repos\WeAllignAPI\WeAllignAPI\obj\Release\netcoreapp3.1\PubTmp\Out\WeAllignAPI.exe
+C:\Users\micha\source\repos\WeAllignAPI\WeAllignAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\micha\source\repos\WeAllignAPI\WeAllignAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\micha\source\repos\WeAllignAPI\WeAllignAPI\obj\Release\netcoreapp3.1\PubTmp\Out\WeAllignAPI.dll
+C:\Users\micha\source\repos\WeAllignAPI\WeAllignAPI\obj\Release\netcoreapp3.1\PubTmp\Out\WeAllignAPI.deps.json
+C:\Users\micha\source\repos\WeAllignAPI\WeAllignAPI\obj\Release\netcoreapp3.1\PubTmp\Out\WeAllignAPI.runtimeconfig.json
+C:\Users\micha\source\repos\WeAllignAPI\WeAllignAPI\obj\Release\netcoreapp3.1\PubTmp\Out\WeAllignAPI.pdb
+C:\Users\micha\source\repos\WeAllignAPI\WeAllignAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\micha\source\repos\WeAllignAPI\WeAllignAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\micha\source\repos\WeAllignAPI\WeAllignAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\micha\source\repos\WeAllignAPI\WeAllignAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

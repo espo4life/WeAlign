@@ -1,0 +1,18 @@
+C:\Users\micha\Dropbox\Michael Esposito & BFS\WeAllignCode\WeAlignAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+C:\Users\micha\Dropbox\Michael Esposito & BFS\WeAllignCode\WeAlignAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\micha\Dropbox\Michael Esposito & BFS\WeAllignCode\WeAlignAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\micha\Dropbox\Michael Esposito & BFS\WeAllignCode\WeAlignAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\Users\micha\Dropbox\Michael Esposito & BFS\WeAllignCode\WeAlignAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\Users\micha\Dropbox\Michael Esposito & BFS\WeAllignCode\WeAlignAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\micha\Dropbox\Michael Esposito & BFS\WeAllignCode\WeAlignAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\micha\Dropbox\Michael Esposito & BFS\WeAllignCode\WeAlignAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\micha\Dropbox\Michael Esposito & BFS\WeAllignCode\WeAlignAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+C:\Users\micha\Documents\Visual Studio 2019\repos\WeAllignCode\WeAlignAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+C:\Users\micha\Documents\Visual Studio 2019\repos\WeAllignCode\WeAlignAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\micha\Documents\Visual Studio 2019\repos\WeAllignCode\WeAlignAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\micha\Documents\Visual Studio 2019\repos\WeAllignCode\WeAlignAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\Users\micha\Documents\Visual Studio 2019\repos\WeAllignCode\WeAlignAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\Users\micha\Documents\Visual Studio 2019\repos\WeAllignCode\WeAlignAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\Visual Studio 2019\repos\WeAllignCode\WeAlignAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\micha\Documents\Visual Studio 2019\repos\WeAllignCode\WeAlignAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\micha\Documents\Visual Studio 2019\repos\WeAllignCode\WeAlignAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache

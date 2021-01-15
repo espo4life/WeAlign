@@ -1,0 +1,159 @@
+{
+
+  "Domains": [
+    {
+      "Name": "Executing",
+      "RGB": "6:185:9"
+    },
+    {
+      "Name": "Influencing",
+      "RGB": "255:153:0"
+    },
+    {
+      "Name": "Relating",
+      "RGB": "0:153:255"
+    },
+    {
+      "Name": "Thinking",
+      "RGB": "255:0:0"
+    }
+  ],
+  "Talents": [
+    {
+      "talent": "achiever",
+      "domain": "Executing"
+    },
+    {
+      "talent": "arranger",
+      "domain": "Executing"
+    },
+    {
+      "talent": "belief",
+      "domain": "Executing"
+    },
+    {
+      "talent": "consistency",
+      "domain": "Executing"
+    },
+    {
+      "talent": "deliberative",
+      "domain": "Executing"
+    },
+    {
+      "talent": "discipline",
+      "domain": "Executing"
+    },
+    {
+      "talent": "focus",
+      "domain": "Executing"
+    },
+    {
+      "talent": "responsibility",
+      "domain": "Executing"
+    },
+    {
+      "talent": "restorative",
+      "domain": "Executing"
+    },
+    {
+      "talent": "activator",
+      "domain": "Influencing"
+    },
+    {
+      "talent": "command",
+      "domain": "Influencing"
+    },
+    {
+      "talent": "communication",
+      "domain": "Influencing"
+    },
+    {
+      "talent": "competition",
+      "domain": "Influencing"
+    },
+    {
+      "talent": "maximizer",
+      "domain": "Influencing"
+    },
+    {
+      "talent": "self-assurance",
+      "domain": "Influencing"
+    },
+    {
+      "talent": "significance",
+      "domain": "Influencing"
+    },
+    {
+      "talent": "woo",
+      "domain": "Influencing"
+    },
+    {
+      "talent": "adaptability",
+      "domain": "Relating"
+    },
+    {
+      "talent": "connectedness",
+      "domain": "Relating"
+    },
+    {
+      "talent": "developer",
+      "domain": "Relating"
+    },
+    {
+      "talent": "empathy",
+      "domain": "Relating"
+    },
+    {
+      "talent": "harmony",
+      "domain": "Relating"
+    },
+    {
+      "talent": "includer",
+      "domain": "Relating"
+    },
+    {
+      "talent": "individualization",
+      "domain": "Relating"
+    },
+    {
+      "talent": "positivity",
+      "domain": "Relating"
+    },
+    {
+      "talent": "relator",
+      "domain": "Relating"
+    },
+    {
+      "talent": "analytical",
+      "domain": "Thinking"
+    },
+    {
+      "talent": "context",
+      "domain": "Thinking"
+    },
+    {
+      "talent": "futuristic",
+      "domain": "Thinking"
+    },
+    {
+      "talent": "ideation",
+      "domain": "Thinking"
+    },
+    {
+      "talent": "input",
+      "domain": "Thinking"
+    },
+    {
+      "talent": "intellection",
+      "domain": "Thinking"
+    },
+    {
+      "talent": "learner",
+      "domain": "Thinking"
+    },
+    {
+      "talent": "strategic",
+      "domain": "Thinking"
+    }
+  ]
+}

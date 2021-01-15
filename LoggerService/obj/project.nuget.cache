@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/noZJZv35RTWV1Kpsd9MuD1coyFG5LmBjAF9suPr9ocH1SLbG0phyvKjP5dYX9WWPofblaVx3dXROsskVBDzQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\micha\\Documents\\Visual Studio 2019\\repos\\WeAlign\\LoggerService\\LoggerService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\nlog\\4.7.6\\nlog.4.7.6.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
