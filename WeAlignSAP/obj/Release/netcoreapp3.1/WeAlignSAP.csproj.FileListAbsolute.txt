@@ -21,3 +21,16 @@ C:\Users\micha\Documents\Visual Studio 2019\repos\WeAllignCode\WeAlignAPI\WeAlig
 C:\Users\micha\Documents\Visual Studio 2019\repos\WeAllignCode\WeAlignAPI\WeAlignSAP\bin\Release\netcoreapp3.1\LoggerService.dll
 C:\Users\micha\Documents\Visual Studio 2019\repos\WeAllignCode\WeAlignAPI\WeAlignSAP\bin\Release\netcoreapp3.1\LoggerService.pdb
 C:\Users\micha\Documents\Visual Studio 2019\repos\WeAllignCode\WeAlignAPI\WeAlignSAP\obj\Release\netcoreapp3.1\WeAlignSAP.csproj.CopyComplete
+C:\Users\micha\Documents\Visual Studio 2019\repos\WeAlign\WeAlignSAP\bin\Release\netcoreapp3.1\SAPThemeStrengths.json
+C:\Users\micha\Documents\Visual Studio 2019\repos\WeAlign\WeAlignSAP\bin\Release\netcoreapp3.1\WeAlignSAP.deps.json
+C:\Users\micha\Documents\Visual Studio 2019\repos\WeAlign\WeAlignSAP\bin\Release\netcoreapp3.1\WeAlignSAP.dll
+C:\Users\micha\Documents\Visual Studio 2019\repos\WeAlign\WeAlignSAP\bin\Release\netcoreapp3.1\WeAlignSAP.pdb
+C:\Users\micha\Documents\Visual Studio 2019\repos\WeAlign\WeAlignSAP\bin\Release\netcoreapp3.1\LoggerService.dll
+C:\Users\micha\Documents\Visual Studio 2019\repos\WeAlign\WeAlignSAP\bin\Release\netcoreapp3.1\LoggerService.pdb
+C:\Users\micha\Documents\Visual Studio 2019\repos\WeAlign\WeAlignSAP\obj\Release\netcoreapp3.1\WeAlignSAP.csprojAssemblyReference.cache
+C:\Users\micha\Documents\Visual Studio 2019\repos\WeAlign\WeAlignSAP\obj\Release\netcoreapp3.1\WeAlignSAP.AssemblyInfoInputs.cache
+C:\Users\micha\Documents\Visual Studio 2019\repos\WeAlign\WeAlignSAP\obj\Release\netcoreapp3.1\WeAlignSAP.AssemblyInfo.cs
+C:\Users\micha\Documents\Visual Studio 2019\repos\WeAlign\WeAlignSAP\obj\Release\netcoreapp3.1\WeAlignSAP.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\Visual Studio 2019\repos\WeAlign\WeAlignSAP\obj\Release\netcoreapp3.1\WeAlignSAP.csproj.CopyComplete
+C:\Users\micha\Documents\Visual Studio 2019\repos\WeAlign\WeAlignSAP\obj\Release\netcoreapp3.1\WeAlignSAP.dll
+C:\Users\micha\Documents\Visual Studio 2019\repos\WeAlign\WeAlignSAP\obj\Release\netcoreapp3.1\WeAlignSAP.pdb
